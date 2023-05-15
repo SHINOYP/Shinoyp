@@ -2,7 +2,6 @@
 <h3 align="center">A passionate MERN stack developer from Kerala India</h3>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Computer man" width="300" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinoyp&label=Profile%20views&color=0e75b6&style=flat" alt="shinoyp" /> </p>
 
 - 🔭 I’m currently working on **Learning Management System**
 
