@@ -54,10 +54,3 @@
 
 ###
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgur.com/QQzsrBH.gif"  />
-</div>
-
-###
